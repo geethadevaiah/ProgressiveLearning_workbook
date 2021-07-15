@@ -3,14 +3,19 @@ Repo made in love for the learning of progressive, ever-evolving full stack tech
 
 <br>
 
-### Trying to find the serene "get-away" in exploration.
-
+### Find the serene "get-away" in exploration.
 <br> 
 
 ![Explore](./shiprock.jpg "explore nature photo")
 
 <br>
 
+ ## Basic Pre-requisites - All Time Use
+ - [x] Algorithms & Data Structures
+ - [x] JAVA / JS Design patterns
+ - [x] Solid Principles
+ - [x] Clean coding
+ 
 ## Full Stack development
 
 ![Full Stack Development!](./Full_stack_skills.png "Full Stack Development")
@@ -22,31 +27,31 @@ Repo made in love for the learning of progressive, ever-evolving full stack tech
  > Pick one topic and start exploring with hands on projects. -->
  
 *** 
-List of skills to take up!
+Listed Skills!
 
 <br>
 
 > TODOs
 
 - [ ] Front End
-    - [ ] HTML, JS/ jQuery basics ES6, CSS - Website Basics
+    - [x] HTML, JS/ jQuery basics ES6, CSS - Website Basics
     - [ ] Frameworks
-        - [ ] React
-        - [ ] Vue
+        - [x] React
+        - [x] Vue
         - [ ] Angular
-        - [ ] Webpack
+        - [x] Webpack
         - [ ] Babel
         - [ ] GraphQL
         - [ ] Production frameworks (Next.js, Nuxt.js)
-    - [ ] Django web development & deployment
+    - [x] Django web development & deployment
 
 - [ ] Backend
-    - [ ] JAVA (Spring & Hibernate), Node
-    - [ ] Web services (REST framework, REST APIs)
-    - [ ] Microservices, Python services (Flask, gunicorn)
+    - [x] JAVA (Spring & Hibernate), Node
+    - [x] Web services (REST framework, REST APIs)
+    - [x] Microservices, Python services (Flask, gunicorn)
 
 - [ ] Database
-    - [ ] RDBMS - MySql, Postgres
+    - [x] RDBMS - MySql, Postgres
     - [ ] NoSQL - Mongo, Cassandra, CouchDB, ElasticSearch
     - [ ] Message Queues - Kafka, RabbitMQ
 
@@ -55,7 +60,7 @@ List of skills to take up!
     - [ ] AWS
     - [ ] Azure
     - [ ] Jenkins
-    - [ ] Docker
+    - [x] Docker
     - [ ] Kubernetes
 
 - [ ] Mobile (optional)
@@ -66,20 +71,15 @@ List of skills to take up!
     - [ ] Native Script
     - [ ] Electron js (optional - Desktop Application)
  
+ 
  ----
+ 
 ## Additional
  - [ ] Automation (Automating stuff using python)
- - [ ] Plugins & Graphs for Visualization
+ - [x] Plugins & Graphs for Visualization
  - [ ] Exploring visualization tools in different languages
  - [ ] Networking knowledge
  - [ ] Linux & Cross platform functionalities
 
 
- -----
-
- ## All rounders ( Brush Up )
- - [ ] JAVA / JS Design patterns
- - [ ] Algorithms & Data Structures
- - [ ] Solid Principles
- - [ ] Clean coding
  
