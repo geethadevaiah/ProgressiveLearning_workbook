@@ -23,8 +23,8 @@ Repo made in love for the learning of progressive, ever-evolving full stack tech
 <!-- ![Full Stack Development!](https://content.altexsoft.com/media/2019/08/word-image.jpeg "Full Stack Development") -->
 
 <br>
-<!-- 
- > Pick one topic and start exploring with hands on projects. -->
+
+<!--  > Pick one topic and start exploring with hands on projects.  -->
  
 *** 
 Listed Skills!
